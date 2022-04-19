@@ -1,5 +1,4 @@
-# cos
-Curse of Strahd DnD campaign
+# Curse of Strahd DnD campaign
 
 gothic survival horror
 
