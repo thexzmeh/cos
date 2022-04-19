@@ -26,6 +26,7 @@ Anything goes, some suggested content from Van Richten's Guide to Ravenloft:
 
 ### Proprosed rules
 Initiative variant - static 10 + DEX MOD?
+
 Variant: Automatic Success
 
 ### Use rules
