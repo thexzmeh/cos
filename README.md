@@ -36,3 +36,5 @@ Optional rule: Flanking
 
 ### House Rules:
 Custom Inspirations (DM awarded)
+
+Alterations to magic (wish, teleport, plane shift etc)
