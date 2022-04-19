@@ -16,11 +16,13 @@ No evil characters (more good than neutral)
 No starting equipment, except for 1 item
 
 Line or point buy
-<p>
-Van Richten's Guide to Ravenloft character customization options:
-Lineages - Hexblood, Reborn, Dhampir
-Backgrounds - Haunted One, Investigator
-</p>
+
+Anything goes, some suggested content from Van Richten's Guide to Ravenloft:
+
+  Lineages - Hexblood, Reborn, Dhampir
+  
+  Backgrounds - Haunted One, Investigator
+
 
 ### Proprosed rules
 Initiative variant - static 10 + DEX MOD?
