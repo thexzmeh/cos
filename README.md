@@ -2,8 +2,11 @@
 Curse of Strahd DnD campaign
 
 gothic survival horror
-scarce items, expensive eq
+
+scarce items, expensive equipment
+
 Start at level 1, end somewhere 10-15 probably
+
 Leveling up with milestones
 
 ### Character creation
@@ -13,10 +16,11 @@ No evil characters (more good than neutral)
 No starting equipment, except for 1 item
 
 Line or point buy
-
+<p>
 Van Richten's Guide to Ravenloft character customization options:
 Lineages - Hexblood, Reborn, Dhampir
 Backgrounds - Haunted One, Investigator
+</p>
 
 ### Proprosed rules
 Initiative variant - static 10 + DEX MOD?
