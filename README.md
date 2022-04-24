@@ -17,10 +17,10 @@ No starting equipment, except for 1 item
 Line or point buy
 
 Anything goes, some suggested content from Van Richten's Guide to Ravenloft:
+ * Lineages - Hexblood, Reborn, Dhampir
+ * Backgrounds - Haunted One, Investigator
 
-  Lineages - Hexblood, Reborn, Dhampir
-  
-  Backgrounds - Haunted One, Investigator
+Use background flaws - roll, choose or come up with your own
 
 
 ### Proprosed rules
