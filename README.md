@@ -10,7 +10,7 @@ Leveling up with milestones
 
 No evil characters (more good than neutral)  
 No starting equipment, except for 1 item  
-Line or point buy  
+Stats - choose same for all - line, point buy or 4d6 roll (each person rolls 2x4d6, discards lowest, all 3 use same stats)  
 
 Anything goes, some suggested content from Van Richten's Guide to Ravenloft:
  * Lineages - Hexblood, Reborn, Dhampir
@@ -22,6 +22,7 @@ Use background flaws - roll, choose or come up with your own (Personality Trait,
 ### Proprosed rules
 Initiative variant - static 10 + DEX MOD?  
 Variant: Automatic Success  
+Identify/short rest for magical items?
 
 ### Use rules
 Optional rule: Diagonals (1->2)
