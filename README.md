@@ -3,7 +3,7 @@ Curse of Strahd DnD campaign
 
 gothic survival horror  
 scarce items, expensive equipment  
-Start at level 1, end somewhere 10-15 probably  
+Start at level 1, expedited level up to 5, end somewhere 10-15 probably  
 Leveling up with milestones  
 
 ### Character creation
@@ -22,10 +22,11 @@ Use background flaws - roll, choose or come up with your own (Personality Trait,
 ### Proprosed rules
 Initiative variant - static 10 + DEX MOD?  
 Variant: Automatic Success  
-Identify/short rest for magical items?
+RAW - Identify/short rest for magical items?
+Enemy spellcasting - known or unknown?
 
 ### Use rules
-Optional rule: Diagonals (1->2)
+Optional rule: Diagonals (1->2)  
 
 ### DO NOT use rules
 Optional rule: Flanking
