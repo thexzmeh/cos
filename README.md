@@ -15,7 +15,6 @@ Zaidimas prasides su 2lvl veikejais, kurie gan greitai bus pakelti iki 5lvl. Tur
 - Flaws - naudosim background'u flaws, galima mesti, pasirinkti arba sugalvoti paciam (Personality Trait, Ideal, Bond, Flaw). Zaidimo metu jie gali kisti arba atsirasti papildomu
 
 ## Taisykles (optional, variant, house rules)
----------------------------------------------
 Papildomu taisykliu sarasas - https://5e.tools/variantrules.html  
 Jeigu kazkas neparasyta, galite siulyti ar klausti pasitikslinimui, nes dalis papildomu taisykliu buvo paminetos pries tai (pvz milestones) ar kas susije su veikeju kurimu
 ### House rules
