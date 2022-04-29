@@ -12,7 +12,7 @@ Zaidimas prasides su 2lvl veikejais, kurie gan greitai bus pakelti iki 5lvl. Tur
 - Rekomenduojama isbandyti Van Richten's Guide to Ravenloft opcijas:
     - Lineages - Hexblood, Reborn, Dhampir
     - Backgrounds - Haunted One, Investigator
-- Flaws - naudosim background'u flaws, galima mesti, pasirinkti arba sugalvoti paciam (Personality Trait, Ideal, Bond, Flaw)
+- Flaws - naudosim background'u flaws, galima mesti, pasirinkti arba sugalvoti paciam (Personality Trait, Ideal, Bond, Flaw). Zaidimo metu jie gali kisti arba atsirasti papildomu
 
 ## Taisykles (optional, variant, house rules)
 ---------------------------------------------
