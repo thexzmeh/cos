@@ -32,6 +32,7 @@ Jeigu kazkas neparasyta, galite siulyti ar klausti pasitikslinimui, nes dalis pa
 |Identification|https://5e.tools/variantrules.html#more%20difficult%20identification_dmg|Pasiulymas - Magic item'us galima atskirti ir be Detect Magic, bet kad suprasti jo savybes: Identify spell'as is karto viska pasako, per short rest'a 1pc 1itema issiaiskina, long rest - ??|
 |Sleep|-|Labiau priminimas - pagal taisykles reikia 6val miego + 2val skirtos pasiruosti spellams ir tt, nors subalansuota 4pc, bet jus 3pc galesite per ta pati laika ir issimiegoti ir pabudeti ir pasiruosti spellus|
 |Spellcasting|https://5e.tools/variantrules.html#spellcasting_xge|Ar norite zinoti is karto ka buria, ar darom su metimais, kad suprasti ar jeigu tas spell'as priklauso tavo klasei ir tu galetum ji burti - nebereikia testo?|
+|Critical Success/Failure|-|1 - autofail; 20 - autosuccess (proto ribose); Atakuojant - galima pasirinkti 2xdice arba maksimum zalos be metimo|
 
 
 ### Naudojamos taisykles
