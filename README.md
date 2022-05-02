@@ -1,7 +1,7 @@
 # Curse of Strahd
 ## _dnd 5e gothic survival horror campaign_
 
-Zaidimas prasides su 2lvl veikejais, kurie gan greitai bus pakelti iki 5lvl. Turekite ankstyva veikejo vystymosi plana. Istorija pasibaigs veikejams bunant kazkur 10-15lvl tarpe, priklausomai nuo pasiekimu ir pasirinkimu. Lvlupai vyks "milestone" principu, pvz ivykdzius questa (ejimas i miska pasilvlupinti nepraeis).
+Zaidimas prasides su 2lvl veikejais, kurie gan greitai bus pakelti iki 5lvl. Turekite ankstyva veikejo vystymosi plana. Istorija pasibaigs veikejams bunant kazkur 10-15lvl tarpe, priklausomai nuo pasiekimu ir pasirinkimu. Lvlupai vyks "milestone" principu, pvz ivykdzius questa (ejimas i miska pasilvlupinti nepraeis). I pirma sesija ateikite su veikeju idejomis, o ne veikejais, galesite susiderinti party.
 
 ## Veikejai
 
