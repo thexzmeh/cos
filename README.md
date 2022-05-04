@@ -1,6 +1,8 @@
 # Curse of Strahd
 ## _dnd 5e gothic survival horror campaign_
 
+![Barovia](img/barovia.jpg)
+
 Zaidimas prasides su 2lvl veikejais, kurie gan greitai bus pakelti iki 5lvl. Turekite ankstyva veikejo vystymosi plana. Istorija pasibaigs veikejams bunant kazkur 10-15lvl tarpe, priklausomai nuo pasiekimu ir pasirinkimu. Lvlupai vyks "milestone" principu, pvz ivykdzius questa (ejimas i miska pasilvlupinti nepraeis). I pirma sesija ateikite su veikeju idejomis arba galite susiderinti is anksto kas uz ka zais.
 
 ## Veikejai
@@ -46,3 +48,7 @@ Jeigu kazkas neparasyta, galite siulyti ar klausti pasitikslinimui, nes dalis pa
 |Parleying with Monsters|https://5e.tools/variantrules.html#parleying%20with%20monsters_tce|Naudosim skillus priesu lore/stats/strengths/weaknesses issiaiskinti (Monster Reseach lentele)|
 |Skills with Different Abilities|https://5e.tools/variantrules.html#skills%20with%20different%20abilities_phb|Viskas aisku|
 |Tool Proficiencies|https://5e.tools/variantrules.html#tool%20proficiencies_xge|Daugiau opciju kaip panaudoti irankius|
+
+## Story begins
+
+![Gates of Barovia](img/gates-of-barovia.jpg)
