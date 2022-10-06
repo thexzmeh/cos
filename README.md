@@ -1,11 +1,23 @@
 # Curse of Strahd
 ## _dnd 5e gothic survival horror campaign_
 
+## Veikejai
+- [Sailas ir jo seselis](chars/Sylas.md)
+- [Volkeris](chars/Walker.md)
+- [Veslis](chars/Weslie.md)
+
+## Sesijos
+
+- [Sesija #1 - 2022/10/04](sesija1.md)
+- [Sesija #2](sesija2.md)
+- [Sesija #3](sesija3.md)
+- [Sesija #4](sesija4.md)
+
 ![Barovia](img/barovia.jpg)
 
 Zaidimas prasides su 2lvl veikejais, kurie gan greitai bus pakelti iki 5lvl. Turekite ankstyva veikejo vystymosi plana. Istorija pasibaigs veikejams bunant kazkur 10-15lvl tarpe, priklausomai nuo pasiekimu ir pasirinkimu. Lvlupai vyks "milestone" principu, pvz ivykdzius questa (ejimas i miska pasilvlupinti nepraeis). I pirma sesija ateikite su veikeju idejomis arba galite susiderinti is anksto kas uz ka zais.
 
-## Veikejai
+## Veikeju susikurimo gaires
 
 - Alignment - jokiu "Evil" veikeju, geriau butu "Good", galima "Neutral" 
 - Starting equipment - pradesite tik su 1 item'u (perspejimas, kad nebutu soko)
