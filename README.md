@@ -13,6 +13,8 @@
 - [Sesija #3](sesija3.md)
 - [Sesija #4](sesija4.md)
 
+## Preliudas
+
 ![Barovia](img/barovia.jpg)
 
 Zaidimas prasides su 2lvl veikejais, kurie gan greitai bus pakelti iki 5lvl. Turekite ankstyva veikejo vystymosi plana. Istorija pasibaigs veikejams bunant kazkur 10-15lvl tarpe, priklausomai nuo pasiekimu ir pasirinkimu. Lvlupai vyks "milestone" principu, pvz ivykdzius questa (ejimas i miska pasilvlupinti nepraeis). I pirma sesija ateikite su veikeju idejomis arba galite susiderinti is anksto kas uz ka zais.
